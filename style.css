@@ -7,7 +7,10 @@ header{
 }
 h1{
     width: 20%;
-        padding: 45px;
+}
+.socorro{
+    padding: 45px;
+    
 }
 .caixa{
     position: relative;
